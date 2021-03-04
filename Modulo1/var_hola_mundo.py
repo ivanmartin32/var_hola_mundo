@@ -1,3 +1,3 @@
 var0 = ("Hola")
 var1 = ("Mundo")
-print (var0 + " computers del " + var1)
+print (var0 + " programadores " + var1)
